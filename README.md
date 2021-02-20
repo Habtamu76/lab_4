@@ -35,6 +35,8 @@ Description of Tile: Tile utilizing the modified basemap from tile one and the m
 
 Tile 4 Screenshot - Themeatic map
 
+![alt text](https://github.com/Habtamu76/lab_4/blob/main/img/Thematic_map.png)
+
 Description of Tile: Map tile made using the color scheme through mapbox to highlight green areas, ideantify major cities, and clearly show near by areas as well as major roads.
    
    Geographic Area of Focus: Seattle, WA.
